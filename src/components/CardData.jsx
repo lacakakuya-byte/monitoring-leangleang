@@ -14,15 +14,15 @@ export default function CardData({ icon, title, sensorName, value, unit }) {
               {icon}
             </div>
             <div>
-              <p className="font-semibold text-base-700">{title}</p>
-              <p className="text-sm text-base-500">{sensorName}</p>
+              <p className="font-semibold text-gray-200">{title}</p>
+              <p className="text-sm text-gray-500">{sensorName}</p>
             </div>
           </div>
           {/* Bagian Kanan: Data dan Unit */}
           <div className="text-center sm:text-right">
             <h2 className="text-2xl font-bold">
               {displayValue}
-              <span className="text-lg font-medium text-gray-500 ml-1">{unit}</span>
+              <span className="text-lg font-medium text-gray-400 ml-1">{unit}</span>
             </h2>
           </div>
         </div>

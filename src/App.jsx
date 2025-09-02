@@ -40,7 +40,7 @@ function App() {
         </div>
 
         {/* Judul Dashboard */}
-        <h1 className="my-8 text-2xl font-bold text-base-800 text-center">
+        <h1 className="my-8 text-2xl font-bold text-white text-center">
           Monitoring Kualitas Air
         </h1>
 
