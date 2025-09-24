@@ -41,7 +41,7 @@ function App() {
 
         {/* Judul Dashboard */}
         <h1 className="my-8 text-2xl font-bold text-white text-center">
-          Monitoring Kualitas Udara
+          Remote monitoring kualitas Udara dan Mikroklimat
         </h1>
 
         {/* Kontainer untuk Kartu Data */}
