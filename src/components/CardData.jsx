@@ -20,7 +20,7 @@ export default function CardData({ icon, title, sensorName, value, unit }) {
           </div>
           {/* Bagian Kanan: Data dan Unit */}
           <div className="text-center sm:text-right">
-            <h2 className="text-2xl font-bold">
+            <h2 className="text-2xl font-bold text-black">
               {displayValue}
               <span className="text-lg font-medium text-gray-500 ml-1">{unit}</span>
             </h2>
