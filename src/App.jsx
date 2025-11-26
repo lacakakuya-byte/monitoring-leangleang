@@ -40,7 +40,7 @@ function App() {
         </div>
 
         {/* Judul Dashboard */}
-        <h1 className="my-8 text-2xl font-bold text-black text-center">
+        <h1 className="my-8 text-2xl font-bold text-white text-center">
           Remote monitoring kualitas Udara dan Mikroklimat
         </h1>
 
